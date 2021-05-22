@@ -7,7 +7,7 @@ This program uses Marvel API(https://developer.marvel.com/) to get marvel charac
 ## Install
 ### Clone the repository
 ```
-git clone 
+git clone git@github.com:Cicada90/MarvelBattle.git
 cd MarvelBattle
 ```
 ### Install gem
