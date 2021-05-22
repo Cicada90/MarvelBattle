@@ -70,7 +70,7 @@ Enter 6: To end the program
 I will improve this program later by giving each of the abilities with percentage so user and computer can atually fight each other. Giving user option to select ability to attack the opponant something like that. </br>
 
 ## MIT License
-
+https://github.com/Cicada90/MarvelBattle/blob/main/LICENSE
 
 ## ACM / IEEE  Software Engineering  Code of Ethics and Professional Practice
 

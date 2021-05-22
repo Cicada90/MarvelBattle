@@ -1,8 +1,8 @@
 #All data is going to be grabbed here
 class API 
     #To access Marvel API you need to have Key & This is permanat so made as class constant
-    PUBLICKEY=publickey
-    PRIVATEKEY=privatekey
+    PUBLICKEY=""
+    PRIVATEKEY=""
   
     def initialize
       @base_endpoint= "https://gateway.marvel.com"
